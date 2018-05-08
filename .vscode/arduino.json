@@ -1,4 +1,4 @@
 {
-    "board": "arduino:avr:uno",
-    "sketch": "DoorBell_Control_Unit.ino"
+    "sketch": "DoorBell_Control_Unit.ino",
+    "board": "arduino:avr:uno"
 }
